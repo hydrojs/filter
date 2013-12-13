@@ -1,0 +1,14 @@
+{
+  "name": "hydro-filter",
+  "repo": "hydrojs/hydro-filter",
+  "description": "Run only given tests matched by supplied filters",
+  "version": "0.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "development": {
+    "chaijs/simple-assert": "*"
+  }
+}
