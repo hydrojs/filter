@@ -1,6 +1,6 @@
 {
   "name": "hydro-filter",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Run only given tests matched by supplied filters",
    "keywords": [
     "hydroplugin",
